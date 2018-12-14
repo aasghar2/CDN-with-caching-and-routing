@@ -1,0 +1,11 @@
+{
+     "node_name": "cdn_node_6",
+     "node_ip": "127.0.0.1",
+     "node_port": "4006",
+     "geo_tag": "europe",
+     "log_file": "cdn_node6.log",
+     "content_ip" : "127.0.0.1",
+     "content_port" : "5000",
+     "links": [{"node_ip": "127.0.0.1", "node_port": "4001", "link_delay": "0.5"},
+             {"node_ip": "127.0.0.1", "node_port": "4005", "link_delay": "0.5"}]
+   }
